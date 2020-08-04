@@ -1,3 +1,5 @@
+<img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
+
 ### Hi there 👋. I am a web development student. I just finished web design course and started MERN stack.
 
 Here are something about me:
