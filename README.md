@@ -1,6 +1,6 @@
 ## Hi there 👋. I am a web development student. I just finished web design course and started MERN stack.
 
-![](https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif/400/400)
+<img scr="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" width="400">
 
 Here are something about me:
 
