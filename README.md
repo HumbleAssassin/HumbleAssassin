@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" width="400"></div>
 
-<div align="center">
+<div align="center" width="800">
   Here are something about me:
 
 - 🔭 I’m currently working on my skills.
